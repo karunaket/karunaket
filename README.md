@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring web and gave dev ideas and quick hacks.
+- 🤔 &nbsp; Exploring gave dev ideas and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering (CSE) in Kpr Institute of Engineering and Technology. Coimbatore, Tamil Nadu 
 - 🌱 &nbsp; Learning web dev.
 - 📖 &nbsp; Highly interested in Astronomy too so reading a great book by Stephen Hawking, A Brief History of Time.
