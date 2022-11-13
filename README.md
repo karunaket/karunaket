@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring Game development ideas and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering (CSE) in Kpr Institute of Engineering and Technology. Coimbatore, Tamil Nadu 
+- 🤔 &nbsp; Exploring Game Development ideas and quick hacks.
+- 🎓 &nbsp; Studying Computer Science and Engineering (CSE) in KPR Institute of Engineering and Technology. Coimbatore, Tamil Nadu 
 - 🌱 &nbsp; Learning web dev.
 - 📖 &nbsp; Highly interested in Astronomy too so reading a great book by Stephen Hawking, A Brief History of Time.
 
