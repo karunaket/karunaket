@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring Game Development ideas and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering (CSE) in KPR Institute of Engineering and Technology. Coimbatore, Tamil Nadu 
-- 🌱 &nbsp; Learning web dev.
+- 🌱 &nbsp; Learning Unity.
 - 📖 &nbsp; Absorbed in Astronomy too so reading a great book by Stephen Hawking, A Brief History of Time.
 - 📝 I regularly write articles on https://medium.com/@karunaket
 - 💬 Ask me about Front-End Web Dev, C, C#, Unity...
