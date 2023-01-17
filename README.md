@@ -30,8 +30,9 @@
 <br/>
 
 <a href="https://github.com/karunaket">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karunaket&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaket&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karunaket&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaket&layout=compact" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=karunaket&theme=neon-palenight&hide_border=true" />
 </a>
 
 <br/>
