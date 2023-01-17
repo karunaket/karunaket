@@ -43,6 +43,4 @@
 <a href="mailto:karunaketan117@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karunaketan117@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karunaket&theme=react&line_height=40&hide=css"/> </a>
-
 ⭐️ From [Karunaket](https://github.com/karunaket)
