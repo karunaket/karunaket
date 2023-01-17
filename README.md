@@ -32,10 +32,13 @@
 <a href="https://github.com/karunaket">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karunaket&show_icons=true&theme=tokyonight" />&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaket&layout=compact" />
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=karunaket&theme=neon-palenight&hide_border=true" />
 </a>
 
 <br/>
+
+<br align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=karunaket&theme=neon-palenight&hide_border=true" />
+</br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
