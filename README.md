@@ -36,11 +36,9 @@
 
 <br/>
 
-<br>
-<center>
+<div style="text-align:center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=karunaket&theme=neon-palenight&hide_border=true" />
-</center>
-</br>
+</div>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
