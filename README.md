@@ -42,7 +42,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p>
 <a href="https://twitter.com/Ketan_Karuna9"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Ketan_Karuna9?style=social"></a>
 <a href="mailto:karunaketan117@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karunaketan117@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
