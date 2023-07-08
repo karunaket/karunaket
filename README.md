@@ -6,8 +6,8 @@
 - 🎓 &nbsp; Studying Computer Science and Engineering (CSE) in KPR Institute of Engineering and Technology. Coimbatore, Tamil Nadu 
 - 🌱 &nbsp; Learning Unity.
 - 📖 &nbsp; Absorbed in Astronomy too so reading a great book by Stephen Hawking, A Brief History of Time.
-- 📝 I regularly write articles on https://medium.com/@karunaket
-- 💬 Ask me about Front-End Web Dev, C, C#, Unity...
+- 📝 &nbsp; I regularly write articles on https://medium.com/@karunaket
+- 💬 &nbsp; Ask me about Front-End Web Dev, C, C#, Unity...
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
