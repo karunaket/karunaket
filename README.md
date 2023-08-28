@@ -1,53 +1,46 @@
-<h2> Hey there! I'm Karuna Ketan.</h2>
+<h1 align="center">Hi 👋, I'm Karuna Ketan</h1>
+<h3 align="center">Game designer, developer form Nepal</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karunaket&label=Profile%20views&color=0e75b6&style=flat" alt="karunaket" /> </p>
 
-- 🤔 &nbsp; Exploring Game Development ideas and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Engineering (CSE) in KPR Institute of Engineering and Technology. Coimbatore, Tamil Nadu 
-- 🌱 &nbsp; Learning Unity.
-- 📖 &nbsp; Absorbed in Astronomy too so reading a great book by Stephen Hawking, A Brief History of Time.
-- 📝 &nbsp; I regularly write articles on https://medium.com/@karunaket
-- 💬 &nbsp; Ask me about Front-End Web Dev, C, C#, Unity...
+- 🌱 I’m currently learning **C#**
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+- 👯 I’m looking to collaborate on **Game dev projects**
 
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+- 👨‍💻 All of my projects are available at [https://karuna-ketan.itch.io/](https://karuna-ketan.itch.io/)
 
-<br/>
+- 📝 I regularly write articles on [https://medium.com/@karunaket](https://medium.com/@karunaket)
 
-<a href="https://github.com/karunaket">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karunaket&show_icons=true&theme=tokyonight" />&nbsp;
-  
-  <br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaket&layout=compact" />
-</a>
+- 💬 Ask me about **Gam dev, Unity, Front-End Web Dev, C, Python, C#**
 
-<br>
+- 📫 How to reach me **gamesbykarunaket@gmail.com**
 
-<p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=karunaket&theme=neon-palenight&hide_border=true" />
+- ⚡ Fun fact **I think I am shy with girls and most talkative with boys hehe**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/karunaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karunaket" height="30" width="40" /></a>
+<a href="https://twitter.com/ketan_karuna9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ketan_karuna9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karunaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karunaket" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/karunaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="karunaket" height="30" width="40" /></a>
+<a href="https://kaggle.com/karunaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="karunaket" height="30" width="40" /></a>
+<a href="https://fb.com/karuna.ketan.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karuna.ketan.71" height="30" width="40" /></a>
+<a href="https://instagram.com/ketan_karuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketan_karuna" height="30" width="40" /></a>
+<a href="https://dribbble.com/karunaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="karunaket" height="30" width="40" /></a>
+<a href="https://medium.com/@karunaket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@karunaket" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/karuna_ket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karuna_ket" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karunaketan117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karunaketan117" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@karunaketan2077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@karunaketan2077" height="30" width="40" /></a>
+<a href="https://discord.gg/sike1528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sike1528" height="30" width="40" /></a>
 </p>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<p align="center">
-<a href="https://twitter.com/Ketan_Karuna9"><img alt="Twitter" src="https://img.shields.io/twitter/follow/Ketan_Karuna9?style=social"></a>
-<a href="mailto:karunaketan117@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-karunaketan117@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karunaket&show_icons=true&locale=en&layout=compact" alt="karunaket" /></p>
 
-⭐️ From [Karunaket](https://github.com/karunaket)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karunaket&" alt="karunaket" /></p>
