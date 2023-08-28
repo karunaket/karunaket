@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Gam dev, Unity, Front-End Web Dev, C, Python, C#**
 
-- 📫 How to reach me **gamesbykarunaket@gmail.com**
+- 📫 Reach me out - **gamesbykarunaket@gmail.com**
 
 - ⚡ Fun fact **I think I am shy with girls and most talkative with boys hehe**
 
