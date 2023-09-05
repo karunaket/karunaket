@@ -15,7 +15,10 @@
 
 - 📫 Reach me out - **gamesbykarunaket@gmail.com**
 
-- ⚡ Fun fact **I think I am shy with girls and most talkative with boys hehe**
+- ⚡ Fun fact <a href="#" onclick="document.getElementById('content').style.display = (document.getElementById('content').style.display === 'none') ? 'block' : 'none'; return false;">Click me</a>
+<div id="content" style="display: none;">
+  **I think I am shy with girls and most talkative with boys hehe**
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
