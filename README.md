@@ -15,7 +15,7 @@
 
 - 📫 Reach me out - **gamesbykarunaket@gmail.com**
 
-- ⚡ Fun fact - **It's Secret**
+- ⚡ Fun fact - **It's Secret🤫😁**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
