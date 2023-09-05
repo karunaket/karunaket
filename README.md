@@ -15,7 +15,7 @@
 
 - 📫 Reach me out - **gamesbykarunaket@gmail.com**
 
-- ⚡ Fun fact **I think I am shy with girls and most talkative with boys hehe**
+- ⚡ Fun fact - **I think I am shy with girls and most talkative with boys hehe**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
