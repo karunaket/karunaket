@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karunaket&label=Profile%20views&color=0e75b6&style=flat" alt="karunaket" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Unreal Engine**
 
 - 👯 I’m looking to collaborate on **Game dev projects**
 
