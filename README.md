@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karunaket&label=Profile%20views&color=0e75b6&style=flat" alt="karunaket" /> </p>
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Game Design**
 
-- 👯 I’m looking to collaborate on **Game dev projects**
+- 👯 I’m looking to collaborate on **Game design projects**
 
 - 👨‍💻 All of my projects are available at [https://karuna-ketan.itch.io/](https://karuna-ketan.itch.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@karunaket](https://medium.com/@karunaket)
 
-- 💬 Ask me about **Game Development**
+- 💬 Ask me about **Game Design, Level Design, Player Psychology, Game feel, Game Programming**
 
 - 📫 Reach me out - **gamesbykarunaket@gmail.com**
 
