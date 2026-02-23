@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Design**
 
-- 👯 I’m looking to collaborate on **Game design projects**
+- 👯 I’m looking to collaborate on **Game development projects**
 
 - 👨‍💻 All of my projects are available at [https://karuna-ketan.itch.io/](https://karuna-ketan.itch.io/)
 
